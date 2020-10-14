@@ -1,6 +1,6 @@
 # **Carga de usuarios MySQL - PHP - AJAX**
 
-![AJAX - PHP - MySQL](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602022077/ajax-request-api-rest_dryw7r.png "AJAX - PHP - MySQL")
+![AJAX - PHP - MySQL](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602022077/GitHub/ajax-request-api-rest_dryw7r.png "AJAX - PHP - MySQL")
 
 Generaciónd de archivo JSON con PHP obteniendo usuarios de MySQL para ser utilizado mediante AJAX y tambien poder agregar nuevos usuarios.
 
